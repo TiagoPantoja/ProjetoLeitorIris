@@ -1,4 +1,4 @@
-# API Reconhecimento de Íris Python e FastAPI
+# Reconhecimento de Íris Python e FastAPI
 
 Este projeto demonstra um sistema de reconhecimento de íris em Python com FastAPI, abordando as etapas de captura da imagem, pré-processamento, extração de características, comparação (matching) e armazenamento de templates.  
 
